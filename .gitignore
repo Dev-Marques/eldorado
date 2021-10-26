@@ -1,0 +1,6 @@
+/src
+/node_modules
+docker-compose.yml
+.dockerignore
+Dockerfile
+tsconfig.json
